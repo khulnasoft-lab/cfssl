@@ -97,7 +97,7 @@ github.com/prometheus/procfs/internal/fs
 github.com/prometheus/procfs/internal/util
 # github.com/stretchr/testify v1.8.4
 ## explicit; go 1.20
-# github.com/weppos/publicsuffix-go v0.30.0
+# github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222
 ## explicit; go 1.16
 github.com/weppos/publicsuffix-go/publicsuffix
 # github.com/ziutek/mymysql v1.5.4
@@ -105,7 +105,7 @@ github.com/weppos/publicsuffix-go/publicsuffix
 github.com/ziutek/mymysql/godrv
 github.com/ziutek/mymysql/mysql
 github.com/ziutek/mymysql/native
-# github.com/zmap/zcrypto v0.0.0-20230310154051-c8b263fd8300
+# github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c
 ## explicit; go 1.16
 github.com/zmap/zcrypto/cryptobyte
 github.com/zmap/zcrypto/cryptobyte/asn1
