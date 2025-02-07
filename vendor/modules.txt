@@ -8,7 +8,7 @@ github.com/beorn7/perks/quantile
 # github.com/cespare/xxhash/v2 v2.2.0
 ## explicit; go 1.11
 github.com/cespare/xxhash/v2
-# github.com/cloudflare/backoff v0.0.0-20161212185259-647f3cdfc87a
+# github.com/cloudflare/backoff v0.0.0-20240920015135-e46b80a3a7d0
 ## explicit
 github.com/cloudflare/backoff
 # github.com/cloudflare/redoctober v0.0.0-20231030153235-deb1d5563cfb
